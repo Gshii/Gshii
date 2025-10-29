@@ -13,5 +13,7 @@ Pet Projects:
 I'm passionate about building practical and user-friendly web applications, constantly learning new technologies, and improving my development skills
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/сергій глинських](https://www.linkedin.com/in/%D1%81%D0%B5%D1%80%D0%B3%D1%96%D0%B9-%D0%B3%D0%BB%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D1%85-170897299/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:glinskihserhii@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D1%81%D0%B5%D1%80%D0%B3%D1%96%D0%B9-%D0%B3%D0%BB%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D1%85-170897299/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:glinskihserhii@gmail.com)
+
 
